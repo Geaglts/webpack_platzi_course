@@ -4,8 +4,9 @@ const path = require("path");
 module.exports = {
     entry: "./src/index.js", // Punto de entrada de nuestra app
     output: {
+        // Se configura donde saldra el codigo generado
         path: path.resolve(__dirname, "dist"),
-        filename: "main.js",
+        filename: "main.js", // Es el nombre que tendra el archivo resultante como <bundle.js>
     },
     resolve: {
         extensions: [".js"],
