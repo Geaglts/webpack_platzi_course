@@ -18,12 +18,12 @@
         "html",
         "css"
     ],
-    "author": "oscar barajas <oscar@gndx.dev>",
+    "author": "Miguel Angel <geaglts@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/gndx/js-portfolio/issues"
+        "url": "https://github.com/Geaglts/webpack_platzi_course/issues"
     },
-    "homepage": "https://github.com/gndx/js-portfolio#readme",
+    "homepage": "https://github.com/Geaglts/webpack_platzi_course#readme",
     "devDependencies": {
         "@babel/core": "^7.13.16",
         "@babel/plugin-transform-runtime": "^7.13.15",
