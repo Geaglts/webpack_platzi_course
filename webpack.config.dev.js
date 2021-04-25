@@ -15,6 +15,7 @@ module.exports = {
         filename: "[name].[contenthash].js", // Es el nombre que tendra el archivo resultante como <bundle.js>
         assetModuleFilename: "assets/images/[hash][ext][query]",
     },
+    mode: "development",
     resolve: {
         extensions: [".js"],
         alias: {
